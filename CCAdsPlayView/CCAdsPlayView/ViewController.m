@@ -32,6 +32,8 @@
     apView.pageContolAliment = CCPageContolAlimentRight;
     //设置动画时间
     apView.animationDuration = 1.;
+    
+    // dddddd
     //设置缺省图
     apView.placeHoldImage = [UIImage imageNamed:@"Default-568h"];
     [self.view addSubview:apView];
