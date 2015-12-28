@@ -30,6 +30,7 @@
     CCAdsPlayView *apView = [CCAdsPlayView adsPlayViewWithFrame:CGRectMake(0, 0,screenWidth, screenHeight) imageGroup:imgArray];
     //设置小圆点位置
     apView.pageContolAliment = CCPageContolAlimentRight;
+    //111111111
     //设置动画时间
     apView.animationDuration = 1.;
     
